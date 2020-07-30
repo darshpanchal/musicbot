@@ -21,5 +21,4 @@ other commands are:
 - Vol (to adjust volume, use it with number between 0 to 100, like Vol100 gives full volume)
 - Stop (stops existing playback)
 
-
 Kudos to all developers of all dependencies.
