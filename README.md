@@ -8,7 +8,7 @@ Dependencies: (Install using pip)
 - youtube_dl
 - telegram bot python api
 - pafy
-- VLC python wrappers
+- VLC python bindings (python-vlc)
 
 Paste your API key from botfather in file and then use.
 
@@ -20,3 +20,6 @@ eg message for video: Vdespacito by luis fonsi
 other commands are:
 - Vol (to adjust volume, use it with number between 0 to 100, like Vol100 gives full volume)
 - Stop (stops existing playback)
+
+
+Kudos to all developers of all dependencies.
